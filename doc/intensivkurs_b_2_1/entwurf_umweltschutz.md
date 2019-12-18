@@ -15,7 +15,7 @@ Das Themas ist Trending. In diesem Monat präsentierte Time-Magazine als Hauptge
 
 Die Geschichte war über der schwedishe Teenager, die erste Teenagerin Aktivistin jemals auf dem Cover der Zeitschrift präsentiert werden. Sie präsentiert sich als eine der aktivsten Stimmen gegen den Klimawandel.
 
-Seit 27. Oktober 1994 verpflichtet das deutsche Verfassungsrecht, die natürlichen Lebensgrundlagen und Tierschutz zu schütze.
+Seit 27. Oktober 1994 verpflichtet das deutsche Verfassungsrecht, die natürlichen Lebensgrundlagen und Tiers- zu schützen.
 Und auch über diesem Thema, war seit 1986 in Deutschland die Bundesministerium für Umwelt, Naturschutz, Bau- und Reaktorsicherheit ergestellt.
 
 Freitage für die Zukunft bzw. Klimastreik ist eine soziale Bewegung, um effiziente und unmittelbare Klimaschutz-Maßnahmen einzusetzen und der Umweltbelastung durch menschliche Tätigkeiten abzunehmen.
@@ -47,7 +47,7 @@ Rechtsextremisten und Nationalisten sind eine weitere Quelle, um den Klimawandel
 
 Aus meiner sicht, deuten alle aktuellen Prognosen auf eine wahrscheinliche irreversible Veränderung der Welt hin. Die Menschheit muss ihr Verhalten schnell ändern.
 
-Was denken Sie daran?
+Was denken Sie darüber?
 
 ## Glossary
 
