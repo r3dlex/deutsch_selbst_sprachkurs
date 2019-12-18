@@ -82,9 +82,9 @@ Je mehr Tina Bewerbungen schreibt, (desto|umso) schneller findet sie eine Stelle
 
 1. ..., aber sie hat keinen anderen Job im Internet gefunden. 
 2. ..., desto weniger muss der Unternehmer nach Mitarbeitern suchen.
-3. ..., sondern bringt man auch viele verschiedene Erfahrungen.
+3. ..., sondern lernt man auch eine andere Sprache.
 4. ..., Dehalb kann er jetzt weder seine Miete bezahlen noch mit seinem Auto fahren.
 5. ... als auch forgeschrittenes technisches Wissen jeden Tag demonstrieren.
-6. Einerseits macht das Unternehmen im moment große Gewinne, andererseits Die Arbeitsbedingungen verschlechtern sich im Laufe der Jahre.
+6. Einerseits macht das Unternehmen im moment große Gewinne, andererseits verschlechtern sich Die Arbeitsbedingungen im Laufe der Jahre.
 7. Arbeitssuchende informieren sich über die Agentur für Arbeit über Stellen oder über spezialisierten Portalen im Internet.
 
