@@ -39,7 +39,7 @@ Beispielsweise ist in einigen Ländern wie China, den USA, Indien und Polen die 
 
 Eine weitere Möglichkeit besteht darin, Vertreter zu wählen, die das Problem des Klimawandels angehen wollen.
 
-Dies gilt nicht für einige der wichtigsten Länder, die zum Klimawandel beitragen. ZB USA mit Donald Trump und China mit Xi Jinping.
+Dies gilt nicht für einige der wichtigsten Länder, die zum Klimawandel beitragen. z.B: USA mit Donald Trump und China mit Xi Jinping.
 
 Rechtsextremisten und Nationalisten sind eine weitere Quelle, um den Klimawandel zu leugnen.
 
