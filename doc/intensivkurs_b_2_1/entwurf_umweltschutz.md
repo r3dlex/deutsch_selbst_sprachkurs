@@ -24,7 +24,9 @@ Letzte Woche passierte den Klimakonferenz in Madrid. Leider, hatte kein großes 
 
 Man kann sagen, dass die reichen Länder sich ihrer Verantwortung entziehen.
 
-Aber was kann man tun, um diese schlechten Vorhersagen zu ändern?
+Aber was kann man tun, um diese schlechten Vorhersagen zu ändern? 
+
+Die Verwendung von Kunststoff bzw Plastik und die Abwesenheit von Recycling sowie die Emission von CO2 aufgrund der Verwendung fossiler Brennstoffe bzw Diesel sind zwei der wichtigsten Faktoren.
 
 1. Benutze mehr öffentliche Verkehrsmittel.
 2. Geh zu Fuß oder mit dem Fahrrad zur Arbeit und nach Hause.
