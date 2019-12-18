@@ -1,6 +1,8 @@
 #!/usr/bin/env sh
 
-pushd `dirname $0`
+DATA_DIRECTORY=data/goethe
+
+pushd `dirname $0`/../${DATA_DIRECTORY}
 
 DOWNLOAD_COMMAND='curl -k -O -J'
 
@@ -45,10 +47,11 @@ A2_LIST=(\
 #B1
 B1_LIST=(\
   http://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf \
-  http://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf \
   http://www2.goethe.de/relaunch/prf/hoerdateien/b1_modellsatz_erwachsene.mp4 \
+  http://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf \
   https://www.goethe.de/pro/relaunch/prf/en/Pruefungsordnung.pdf \
-  https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf
+  https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf \
+  https://www.goethe.de/lhr/pro/daz/dfz/dtz_wortliste.pdf
   )
 # Übungen 
 #   http://bfu.goethe.de/b1_mod/index.php
