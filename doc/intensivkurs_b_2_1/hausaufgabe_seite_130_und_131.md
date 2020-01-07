@@ -9,6 +9,10 @@
 * einsetzen => to set up, to appoint, to establish
 * gründen => to found, to plant, to establish
 * schrecklich => awful, terrible, dreadful, appaling
+* regieren => to rule
+* Reichtum/Wohlstand => Wealth
+* Armut => poverty
+* stattfinden => occur / to take place
 
 ## Seite 130
 
@@ -24,13 +28,13 @@ die Bildung, die Universität, das Studium, die Arbeitslose, der Abschluss (degr
 
 Politik:
 
-die Regierung, die Partei, der Präsident/die Präsidentin, der Kanzler (Chancellor/provost)/die Kanzlerin (female Chancellor/provost), die Wahlen (polls/election)/die Wahl (choice/election/vote), der Minister (minister)/die Ministerin (female minister), 
+die Regierung, die Partei, der Präsident/die Präsidentin, der Kanzler (Chancellor/provost)/die Kanzlerin (female Chancellor/provost), die Wahlen (polls/election)/die Wahl (choice/election/vote), der Minister (minister)/die Ministerin (female minister)
 
 ### 2
 
-2. Essen und Trinken => die Ernährung
+2. Essen und Trinken => die Ernährung/der Konsum
 3. die Hochschule => die Universität
-4. die Stelle => der Arbeitsplatz
+4. die Stelle => der Arbeitsplatz/der Ausbildungsplatz
 5. das Amt => die Behörde
 6. die Klinik => das Krankenhaus
 7. der Club => der Verein
@@ -39,23 +43,23 @@ die Regierung, die Partei, der Präsident/die Präsidentin, der Kanzler (Chancel
 ### 3
 
 1. Sich in einem Verein oder einer Initiative *engagieren*.
-2. Einen Verein *gründen*.
+2. Einen Verein *gründen*. (gründen => fund something != erstellen => create something with your hands)
 3. Ein Land *regieren*.
 4. Eine Firma *aufbauen*.
 5. Gemeinsam eine Sache *anpacken*.
-6. Junge Menschen mit einem Stipendium *fördern*.
+6. Junge Menschen mit einem Stipendium *fördern*. (fördern => unterstützen)
 7. Sich für einen guten Zweck *einsetzen*.
 8. Etwas zu einem gemeinsamen Projekt *beitragen*. 
 
 ### 4
 
 1. Der Egoismus (Selfishness) => egoistisch (selfish)
-2. die Rücksicht (respect) => rücksichtsvoll (considerate/respectful)
+2. die Rücksicht (respect/considerate) => rücksichtsvoll (considerate/respectful) => rücksichtslos (unconsiderate/disrespectful)
 3. die Ignoranz => ignorant
-4. die Gewalt (violence) => gewaltsam/gewaltvoll (violent)
-5. die Freiheit (freedom) => frei (free)
-6. die Toleranz => tolerant
-7. die Höflichkeit (politeness/courtesy) => höflich (polite)
+4. die Gewalt (violence) => gewaltsam (Verhalten)/gewaltvoll (Verhalten)/ gewaltig (bedeutet riesig) (violent)
+5. die Freiheit (freedom) => frei (free) / unfrei
+6. die Toleranz => tolerant => intolerant
+7. die Höflichkeit (politeness/courtesy) => höflich (polite) => unhöflich
 8. die Aggression => aggressiv
 9. die Gerechtigkeit (justice) => gerecht (fair)
 10. das Ideal (ideal) => idealistisch (idealistic) / ideal (ideal)
@@ -63,11 +67,11 @@ die Regierung, die Partei, der Präsident/die Präsidentin, der Kanzler (Chancel
 ### 5
 
 
-| Begriff           | Gegensätze              |
-|-------------------|----------------------   |
-| die Gerechtigkeit | die Ungerechtigkeit     |
-| die Gesundheit    | die Krankheit           |
-| der Frieden       | der Krieg               |
-| das Vertrauen     | der Misstrauen/Verdacht |
-| der Reichtum      | die Armut               |
-| die Umweltschutz  | die Umweltzerstörung    |
+| Begriff           | Gegensätze                |
+|-------------------|----------------------     |
+| die Gerechtigkeit | die Ungerechtigkeit       |
+| die Gesundheit    | die Krankheit             |
+| der Frieden       | der Krieg / der Konflikt  |
+| das Vertrauen     | der Misstrauen/Verdacht   |
+| der Reichtum / der Wohlstand | die Armut       |
+| der Umweltschutz  | die Umweltzerstörung      |
