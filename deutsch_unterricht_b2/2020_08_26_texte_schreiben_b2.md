@@ -1,4 +1,4 @@
-# Secura Verschierung 
+# Secura Verschierung 26.08.2020
 
 Sehr geehrte Damen und Herren,
 
@@ -16,7 +16,7 @@ Mit freundlichen Grüßen (Mit freundlichem Gruß),
 
 André Silva
 
-# Brief Beispiel
+# Brief Beispiel 27.08.2020
 
 André Silva
 Stuttgarterstraße 10
@@ -38,6 +38,7 @@ Sehr geehrte Damen und Herren (bzw. Sehr geehrter Herr Blibs oder Sehr geehrte F
 
 Anzeige => Notification
 ablegen => take
+verlangen => demand
 
 Hiermit möchte ich mich bei Ihnen wegen eines Ihrer Sprachkurse beschweren. Ich besuchte den B2 Intensivkurs vom 1.02.2020 bis 1.10.2020.
 
@@ -56,7 +57,43 @@ Für Fragen stehe ich Ihnen gerne telefonisch zur Verfügung.
 
 Sollte ich innerhalb von 5 Werktagen nicht von Ihnen hören oder den Betrag auf meinem Konto stehen, sehe ich mich gezwungen, meinen Anwalt einzuschalten.
 
+## Abschluss
+
 Mit freundlichen Grüßen (Mit freundlichem Gruß)
 
 André Silva 
 (e Unterschrift)
+
+# Bitte um Information
+
+s Angebot
+## Hinweise
+niemals schnell statt bald / zeitnah verwenden
+Steigen / Ansteigen => gleich
+
+## Betreff => Anfrage zu/Bitte um Information/Diverse Frage zu Ihrem Angebot
+
+## Anleitung
+Ich habe Ihre Werbeanzeitge im Internet gelesen und interessiere mich für Ihr Angebot. 
+
+Ich habe bereits sechs Monate selbständig Deutsch gelernt und würde mich nun für einen Kurs anmelden.
+
+## Hauptinhalt
+Mein Ziel ist es, die "telc C1 Hochschule" Prüfung zu bestehen, um ein Studium an der Uni Berlin zu beginnen.
+
+So bin ich auf Ihr Kursangebot aufmerksam geworden und habe einige Fragen dazu, die Sie hoffentlich zeitnah beantworten können.
+
+Als erstes interessiert mich die Frag nach der Gruppenstärke. In Ihrer Anzeige steht, dass die Gruppen maximal 12 Teilnehmer haben.
+
+Trifft es auch für den C1-Kurs zu? Ich habe bereits an einer anderen Schule schlechte Erfahrungen mit der Gruppenstärke gemacht.
+
+Uns wurden kleine Gruppen versprochen, jedoch stieg die Anzahl der Teilnehmer schnell auf 25, was zu ineffektivem Unterricht führte.
+
+Meine nächste Frage betrifft den Kurspreis. Wäre es möglich, den Betrag in monatlichen Raten zu bezahlen?
+
+Eine Freundin von mir hat ebenfalls Interesse an diesem Kurs. Wäre es möglich, einen kleinen Rabatt zu bekommen, wenn wir uns beide anmelden?
+
+Ich danke Ihnen im Voraus für die Beantwortung meiner Fragen. Sie erreichen mich auch telefonisch unter 0176/...
+
+Mit freundlichen Grüßen (bzw beste Grüße),
+André Silva 
