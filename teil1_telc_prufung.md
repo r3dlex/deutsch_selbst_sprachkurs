@@ -25,12 +25,12 @@ Normalerweise sagten sie, dass sie die brasilianischen Telenovelas lieben und di
 ### Frage 1
 Was findest du sehr unterschiedlich zwischen den Kulturen von Kuba und Brasilien? 
 
-Es gibt viele Unterschiede. Der Kapitalismus in Brasilien ist genauso stark wie in den USA oder Europa. Seit einige Jahre ist Armut nicht mehr eine Realität in Brasilien. Andererseits war leider Armut noch eine Realität in Kuba. Ich kann mir vorstellen, dass mit der Aufhebung des Embargos das kubanische Leben anders ein könnte.
+Es gibt viele Unterschiede. Der Kapitalismus in Brasilien ist genauso stark wie in den USA oder Europa. Seit einigen Jahren ist Armut nicht mehr eine Realität in Brasilien. Andererseits war leider Armut noch eine Realität in Kuba. Ich kann mir vorstellen, dass mit der Aufhebung des Embargos das kubanische Leben anders ein könnte.
 
 ### Frage 2
 Was ist der Zusammenhang zwischen dem Verlust von deinem Gepäck und der Kulturschock?
 
-Das ist eine bestimmte gute Frage. Der Verlust meines Gepäcks war bis dahin nicht die größte Überraschung. Viele hatten ihr Gepäck vermisst. Die Mehrheit waren Kubaner und die Behandlung der Gepäckbeschwerde war leider anders zwischen Kubaner und den Ausländer. 
+Das ist eine bestimmte gute Frage. Der Verlust meines Gepäcks war bis dahin nicht die größte Überraschung. Viele hatten ihr Gepäck vermisst, deren Mehrheit Kubaner waren. Die Behandlung der Gepäckbeschwerde war leider anders zwischen Kubaner und den Ausländer. 
 
 Sie müssten leider zurück zu Flughafen, um Ihr Gepäck abzuholen. Ich empfing mein Gepäck im Hotel in dem nächsten Tag. 
 
