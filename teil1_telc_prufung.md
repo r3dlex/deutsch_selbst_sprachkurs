@@ -18,3 +18,7 @@ Nachdem wir zum Hotel angekommen sind, haben gerade erst begonnen zu erkennen, w
 Die kulturellen Ähnlichkeiten zwischen Kuba und meinem eigenen Land waren groß, und sie fühlten sich wie Cousins und Cousinen von uns. Wir hatten das Vergnügen, viele freundliche Menschen zu treffen, die immer lächelten, wenn wir Ihnen sagten, dass wir aus Brasilien kamen.
 
 Normalerweise sagen sie, dass sie die brasilianischen Telenovelas lieben und die Tänze, wie Samba und Forró. Das war eine erstaunliche und einzigartige Erfahrung in meinem Leben und im Leben meiner Familie. Die Freundlichkeit und Fröhlichkeit der kubanischen Bevölkerung war aufregend und unvergesslich.
+
+# Fragen an Badr
+1. Worüber war die Konferenz, die du daran teilgenommen hast?
+2. Was fandest du schlimm und gut mit diesen Erfahrungen, die du gesammelt hast?
