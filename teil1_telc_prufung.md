@@ -13,7 +13,7 @@ Softwareentwickler.
 
 Ich möchte über meine Reise nach Kuba sprechen. Am Ende des Jahres 2018 bin ich mit meiner Familie dorthin gereist. Als wir in Kuba angekommen sind, hatten wir fast 2 Stunden damit verbracht, das Gepäck abzuholen. Leider fehlte mein Gepäck und alles wurde von Hand gemacht, sogar die Gepäckbeschwerde. Das war für uns eine Überraschung und ein Kulturschock. 
 
-Nachdem wir zum Hotel angekommen sind, haben gerade erst begonnen zu erkennen, wie anders diese Reise von anderen sein würde. Wir haben fünf Tage in Havanna verbracht und fünf tage in einem Resort aus Varadero.
+Nachdem wir zum Hotel angekommen sind, haben gerade erst begonnen zu erkennen, wie anders diese Reise von anderen sein würde. Wir haben fünf Tage in Havanna verbracht und fünf Tage in einem Resort aus Varadero.
 
 Die kulturellen Ähnlichkeiten zwischen Kuba und meinem eigenen Land waren groß, und sie fühlten sich wie Cousins und Cousinen von uns. Wir hatten das Vergnügen, viele freundliche Menschen zu treffen, die immer lächelten, wenn wir Ihnen sagten, dass wir aus Brasilien kamen.
 

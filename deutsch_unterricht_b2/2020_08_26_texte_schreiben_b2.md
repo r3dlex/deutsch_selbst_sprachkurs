@@ -16,7 +16,7 @@ Mit freundlichen Grüßen (Mit freundlichem Gruß),
 
 André Silva
 
-# Brief Beispiel 27.08.2020
+# Beschwerden-Brief Beispiel 27.08.2020
 
 André Silva
 Stuttgarterstraße 10

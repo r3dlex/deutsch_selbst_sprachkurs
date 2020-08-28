@@ -9,9 +9,9 @@ Letztes Jahr habe ich einige Freunde zu Besuch empfangen und einer von denen war
 
 Ich wohne in ein zwei Zimmer Wohnung mit 80 Quadratmeter Oberfläche. Es gibt auch einen Balkon und eine Besuchertoilette zu Verfügung. Das Wohnzimmer, das mit der Küche integriert ist, enthält die Mehrheit der brennbaren Stoffe und Mobilien. Wie kann ich meine Wohnung besser sortieren, um Brände zu vermeiden?
 
-An dieser Stelle hätte ich meine erste Frage dazu. Machen Sie irgendwelche Tests nach der Installation, um sicher zu sein, dass der Alarm nicht falsch ausgelöst wäre?
+An dieser Stelle hätte ich meine zweite Frage dazu. Machen Sie irgendwelche Tests nach der Installation, um sicher zu sein, dass der Alarm nicht falsch ausgelöst wäre?
 
-Eine andere Frage zu der Leistung und Wartung der Ausrüstung: Wie ist die Häufigkeit der Wartung?
+Eine andere Frage zur Leistung und Wartung der Ausrüstung: Wie ist die Häufigkeit der Wartung?
 
 Ich freue mich darauf, eine baldige Beantwortung zu erhalten.
 
